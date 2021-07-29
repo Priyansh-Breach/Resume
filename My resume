@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "PRIYANSH JHALORA",
+		"label": "Student",
+		"picture": "https://https://github.com/Priyansh-Breach",
+		"email": "2020KUCP1038@IIITKOTA.AC.IN",
+		"phone": "9461137509",
+		"summary": "I AM AN ENGINEERING STUDENT AT IIIT KOTA PERSUING B.TECH COURSE IN COMPUTER SCIENCE OF ENGINEERING.",
+		"location": {
+			"address": "3 DEWALI NEAR FATEHPURA UDAIPUR RAJASTHAN (313001) INDIA",
+			"postalCode": "313001",
+			"city": "UDAIPUR",
+			"countryCode": "India",
+			"region": "RAJASTHAN"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/@PriyanshJhalora"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/Priyansh-Breach/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/priyansh-jhalora-a24076200/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/Priyansh_jhalora"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024-07-12",
+		"gpa": "7.0",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Cycling"]
+	}]
+}
