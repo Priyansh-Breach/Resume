@@ -15,22 +15,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "PriyanshJhalora",
 				"url": "https://www.twitter.com/@PriyanshJhalora"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "Priyansh-Breach",
 				"url": "https://www.github.com/Priyansh-Breach/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "priyansh jhalora",
 				"url": "https://www.linkedin.com/in/priyansh-jhalora-a24076200/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "Priyansh_jhalora",
 				"url": "https://instagram.com/Priyansh_jhalora"
 			}
 		]
